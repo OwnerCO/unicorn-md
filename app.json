@@ -10,17 +10,17 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;unicorn🦄"
+      "value": "51960285930;unicorn🦄"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "unicorn©®"
+      "value": "SysSolutions"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "Silva~jv4FjDrD#PYZeW4-PIROt3Zb_-Z8-YuzftjyA0O8vF4XX24eEKqY"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,7 +30,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": true,
-      "value": "."
+      "value": "#"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
@@ -85,7 +85,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "UNICORN 🦄 BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "SYSSOLUTIONS 🦄 BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
