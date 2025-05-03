@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Sylivanu/unicorn-md",
+    "homepage": "https://github.com/OwnerCO/unicorn-md",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Sylivanu/unicorn-md.git"
+        "url": "git+https://github.com/OwnerCO/unicorn-md.git"
     },
     "bugs": {
-        "url": "https://github.com/Sylivanu/unicorn-md/issues"
+        "url": "https://github.com/OwnerCO/unicorn-md/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
