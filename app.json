@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Sylivanu/unicorn-md",
+  "repository": "https://github.com/OwnerCO/unicorn-md",
   "stack": "container",
   "env": {
     "OWNERS": {
